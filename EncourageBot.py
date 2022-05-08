@@ -92,4 +92,4 @@ async def on_message(message):
       await message.channel.send("Responding is off")
 
 keep_alive()
-client.run('OTcxNTUyNTY0MTExODc2MTE2.YnMK1Q.Kw8pt_JvfUiMwBHRIQ5NIAIJ7u4')
+client.run('mybotTOKEN')
