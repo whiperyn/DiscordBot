@@ -6,7 +6,7 @@
 
 Bot Preview
 
-(User's name & profile picture, and bot's name are removed)
+(User's name & profile picture, bot's name are removed)
 
 <img width="860" alt="Screen Shot 2022-05-08 at 4 54 37 PM" src="https://user-images.githubusercontent.com/51375432/167315565-3e5c1873-a466-433b-ada8-e406bac425c7.png">
 
